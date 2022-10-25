@@ -1,10 +1,8 @@
 # Wynncraft Enhanced
 
-Official repository and issue-tracker for the Wynncraft Enhanced 1.18 modpack.
+This repository will serve mostly as an issue-tracker for the Wynncraft Enhanced 1.18 modpack.
 
-Supports ATLauncher, MultiMC and its forks
+It supports ATLauncher, MultiMC and its forks.
 
-
-Links:
 
 [Modrinth](https://modrinth.com/modpack/wynncraft-enhanced)
