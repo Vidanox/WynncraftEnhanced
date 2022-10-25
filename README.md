@@ -1,4 +1,4 @@
-# Wynncraft Enahnced
+# Wynncraft Enhanced
 
 Official repository and issue-tracker for the Wynncraft Enhanced 1.18 modpack.
 
