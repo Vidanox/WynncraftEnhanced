@@ -1,6 +1,6 @@
-# WynncraftEnahnced
+# Wynncraft Enahnced
 
-Official repository and issue-tracker for Wynncraft Enhanced 1.18 modpack.
+Official repository and issue-tracker for the Wynncraft Enhanced 1.18 modpack.
 
 It should support all launchers.
 
